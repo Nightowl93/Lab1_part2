@@ -1,3 +1,6 @@
+/* Shontinique Uqdah
+ * 07/03/2018
+ */
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
